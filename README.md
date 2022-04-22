@@ -1,2 +1,5 @@
-# dio-desafio-github-primeiro-repc
-Desafio de Projeto sobre Git/GitHub
+# Desafio de Projeto sobre Git/Github da Dio
+Repositorio criado para o desafio de projetos
+
+## Links Úteis 
+sei la
